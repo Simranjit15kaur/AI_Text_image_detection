@@ -1,4 +1,4 @@
-# AI_Text_image_detection
+
 
 
 # AI-Generated Image and Text Detection System
