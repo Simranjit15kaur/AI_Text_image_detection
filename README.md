@@ -73,3 +73,14 @@ This project is a comprehensive AI-generated content detection system capable of
 ```bash
 git clone https://github.com/simranjit15kaur/AI_Text_image_detection.git
 cd AI_Text_image_detection
+
+
+## Author
+
+**Simranjit Kaur**
+
+- Final Year Student, AI & ML Enthusiast
+- Specialized in Explainable AI, Deep Learning, and Digital Twins
+- Project Lead for "AI Text and Image Detector"
+- Contact: skaur6_be22@thapar.edu
+- GitHub: [github.com/Simranjit15kaur](https://github.com/Simranjit15kaur)
